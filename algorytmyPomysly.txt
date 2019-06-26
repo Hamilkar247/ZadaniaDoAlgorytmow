@@ -1,2 +1,5 @@
 #bardziejOZadaniaChodziło
 -podsumowanie liczby ćwiczeń
+-dlugi - algorytm pythona
+-wypełnianie formularzy rekrutacyjnych
+-pobieranie z cda tylko za pomocą podania linku mozilii
