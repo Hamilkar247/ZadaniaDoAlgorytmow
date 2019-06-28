@@ -3,3 +3,7 @@
 -dlugi - algorytm pythona
 -wypełnianie formularzy rekrutacyjnych
 -pobieranie z cda tylko za pomocą podania linku mozilii
+-program do korygowania napisów 
+-laczenie plikow "z kodu do gier" w jeden plik z danymi
+-Backing Up a Folder into a ZIP File
+
